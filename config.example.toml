@@ -1,0 +1,16 @@
+# Your shop name exactly as shown on Kaspi (optional). Enables "you lost first place" alerts.
+my_shop = ""
+# Ignore price moves smaller than this many tenge.
+min_price_delta = 50
+# 750000000 = Almaty
+city_id = "750000000"
+
+# Product id = the number at the end of the Kaspi product URL.
+[[products]]
+id = "115818386"   # Пароочиститель SE8620
+
+[[products]]
+id = "117924681"   # Набор Детская кухня с водой
+
+[[products]]
+id = "114273757"   # Тестораскаточная машина DHH-220
